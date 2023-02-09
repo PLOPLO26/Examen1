@@ -1,5 +1,7 @@
 /*Hacer un programa en c++ que muestre la tabla de multiplicar del numero ingresado por 
-el usuiario.*/
+el usuiario.
+@author Ximena Perz Lara Olvera..
+*/
 
 #include <iostream>
 
