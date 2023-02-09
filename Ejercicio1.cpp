@@ -1,7 +1,7 @@
 /******************************************************************************
 Hacer un programa que pida 3 numeros y te diga cual es el mayor y cual es 
 el menor.
-Hecho por: Ximena Perez Lara Olvera
+@author Ximena Perez Lara Olvera
 *******************************************************************************/
 
 #include <iostream>
